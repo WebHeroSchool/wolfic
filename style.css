@@ -1,6 +1,52 @@
 p {
-    font-family: 'Public Sans', sans-serif;
+    position: absolute;
+    left: 10%;
+    right: 60%;
+    top: 60%;
+    bottom: 35%;
+
+    font-family: 'Public Sans';
+    font-size: 22px;
+    line-height: 25px;
+
+    color: #E6E6FA;
+
 }
+
 h1 {
-    font-family: 'PT Serif', serif;
+    position: absolute;
+    left: 10%;
+    right: 60%;
+    top: 25%;
+    bottom: 40%;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 280px;
+    line-height: 370px;
+    display: flex;
+    align-items: center;
+
+    color: #E6E6FA;
+
+    opacity: 0.5;
+}
+
+h2 {
+    position: absolute;
+    left: 15%;
+    right: 60%;
+    top: 45%;
+    bottom: 40%;
+
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 130px;
+    display: flex;
+    align-items: center;
+
+    color: #E6E6FA;
 }
