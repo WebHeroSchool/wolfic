@@ -1,12 +1,16 @@
-p {
+@font-face {
   font-family: 'Public Sans';
+  src: url("wolfic/fonts/publicsans.woff2") format("woff2"),
+    url("wolfic/fonts/publicsans.woff") format("woff");
   font-style: normal;
   font-weight: 500;
   font-display: swap;
 }
  
-  h1 {
+@font-face {
     font-family: 'PT Serif';
+    src: url("wolfic/fonts/ptserif.woff2") format("woff2"),
+    url("wolfic/fonts/ptserif.woff") format("woff");
     font-style: normal;
     font-weight: 700;
     font-display: swap;
