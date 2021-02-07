@@ -1,26 +1,53 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>волкоман</title>
-      <link rel="stylesheet" href="./fonts.css">
-      <link rel="stylesheet" href="./style.css">
-  </head>
-  <body>
-    <nav class="top-menu">
-      <ul class="menu-main">
-        <li class="menu-main__item"><a href="/home">главная</a></li>
-        <li class="menu-main__item"><a href="/search">поиск фанфика</a></li>
-        <li class="menu-main__item"><a href="/upload">добавить фанфик</a></li>
-        <li class="menu-main__item"><a href="/arts">фан-арт</a></li>
-        <li class="menu-main__item"><a href="/contact">обратная связь</a></li>
-      </ul>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./fonts.css">
+  <link rel="stylesheet" href="./style.css">
+  <title>волкоман</title>
+</head>
+
+<body class="wrap">
+  <header class="header">
+    <div class="container">
+    <input id="toggle" type="checkbox">
+    <label class="toggle-container" for="toggle">
+      <span class="button button-toggle"></span>
+    </label>
+    <nav class="menu">
+      <a href="#home" class="menu__item">главная</a>
+      <a href="#search" class="menu__item">поиск фанфика</a>
+      <a href="#addition" class="menu__item">добавить фанфик</a>
+      <a href="#arts" class="menu__item">фан-арт</a>
+      <a href="#contact" class="menu__item">обратная связь</a>  
     </nav>
-    <section>
-        <h1>Wolves</h1>
+    </div>
+  </header>
+  <main class="main-wrap">
+    <section class="info">
+      <div class="info__content">
+        <div class="content__title">
+          <h1>Wolves</h1>
+        </div>
+        <div class="content__subtitle">
           <h2>courage, strength and loyalty</h2>
-            <p>Добро пожаловать, любители волчьей тематики! Здесь можно прочесть и опубликовать фанфик с героями-волками.</p>
+        </div>
+        <p class="info__text">
+          Добро пожаловать, любители волчьей тематики!
+          Здесь можно прочесть и опубликовать фанфик с героями-волками.
+        </p>
+        <button class="main__btn">вход и регистрация</button>
+      </div>
     </section>
-  </body>   
+    <section class="images">
+      <img src="./wolfic/img-1.png" alt="семья" class="images__item">
+      <img src="./wolfic/img-2.png" alt="избранный" class="images__item">
+      <img src="./wolfic/img-3.png" alt="водопад" class="images__item">
+    </section>
+</main>
+</body>   
+
 </html>
