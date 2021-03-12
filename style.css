@@ -4,7 +4,7 @@
     min-width: 375px;
     height: 100vh;
     margin: 0 auto;
-    background: url('./wolfic/background.png') no-repeat;
+    background: url('./background.png') no-repeat;
     background-size: cover;
     font-family: 'Public Sans';
 }
@@ -51,7 +51,6 @@
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
-    size: 95%;
     opacity: 0.5;
     font-family: 'PT Serif';
     font-style: normal;
