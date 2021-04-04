@@ -2,7 +2,6 @@
     box-sizing: border-box;
     max-width: 1920px;
     min-width: 375px;
-    height: 100vh;
     margin: 0 auto;
     background: url('./background.png') no-repeat;
     background-size: cover;
