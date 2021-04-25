@@ -7,6 +7,7 @@
     font-family: 'Public Sans';
     color: #E6E6FA;
 }
+
 .main-wrap {
     display: flex;
     justify-content: space-between;
@@ -47,7 +48,6 @@
 .menu__btn > span::before,
 .menu__btn > span::after {
     display: block;
-    position: absolute;
 
     width: 100%;
     height: 2px;
@@ -116,7 +116,6 @@
 }
 
 .info__text {
-    position: absolute;
     font-family: 'Public Sans';
     font-size: 22px;
 }
@@ -140,6 +139,7 @@
     align-items: center;
     overflow: hidden;
 }
+
 .images__item {
     width: 380px;
     height: 285px;
