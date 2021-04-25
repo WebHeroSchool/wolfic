@@ -106,22 +106,34 @@
     background-color: #432946;
 }
 
+.info__content {
+    max-width: 500px;
+}
+
 .content__title {
+    margin: 200px 0 -90px 15px;
     font-family: 'PT Serif';
     font-size: 180px;
+    font-weight: bold;
+    opacity: 50%;
 }
 
 .content__subtitle {
+    margin: -85px -95px 50px 30px;
+    text-align: end;
     font-family: 'PT Serif';
     font-size: 60px;
+    font-weight: bold;
 }
 
 .info__text {
+    margin: 25px;
     font-family: 'Public Sans';
     font-size: 22px;
 }
 
 .main__btn {
+    margin: 25px;
     width: 210px;
     height: 45px;
     font-size: 18px;
@@ -142,7 +154,7 @@
 }
 
 .images__item {
-    width: 380px;
-    height: 285px;
+    width: 250px;
+    height: 250px;
     margin: 20px;
 }
