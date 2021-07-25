@@ -2,10 +2,10 @@
     box-sizing: border-box;
     min-height: 100vh;
     margin: 0 auto;
-    background: url('./background.png')
+    background: url('images/background.png')
        no-repeat center;
     background-size: 100vh;
-    font-family: 'Public Sans';
+    font-family: 'PublicSans';
     color: #E6E6FA;
 }
 
@@ -70,9 +70,8 @@
     display: block;
     padding: 12px 24px;
     color: #9370d8;
-    font-family: 'Public Sans';
+    font-family: 'PublicSans';
     font-size: 20px;
-    font-weight: 600;
     text-decoration: none;
     transition-duration: .25s;
 }
@@ -87,7 +86,7 @@
 
 .content__title {
     margin: 200px 0 -90px 15px;
-    font-family: 'PT Serif';
+    font-family: 'PTSerif';
     font-size: 180px;
     font-weight: bold;
     opacity: 50%;
@@ -96,14 +95,14 @@
 .content__subtitle {
     margin: -85px -95px 50px 30px;
     text-align: end;
-    font-family: 'PT Serif';
+    font-family: 'PTSerif';
     font-size: 60px;
     font-weight: bold;
 }
 
 .info__text {
     margin: 25px;
-    font-family: 'Public Sans';
+    font-family: 'PublicSans';
     font-size: 22px;
 }
 
