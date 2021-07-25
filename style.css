@@ -2,7 +2,7 @@
     box-sizing: border-box;
     min-height: 100vh;
     margin: 0 auto;
-    background: url('images/background.png')
+    background: url('./images/background.png')
        no-repeat center;
     background-size: 100vh;
     font-family: 'PublicSans';
