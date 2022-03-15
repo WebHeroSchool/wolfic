@@ -13,24 +13,21 @@
 
 <body class="wrap">
   <header class="header">
-    <nav class="menu">
-      <a class="menu__item" href="#">главная</a>
-      <a class="menu__item" href="#">поиск фанфика</a>
-      <a class="menu__item" href="#">добавить фанфик</a>
-      <a class="menu__item" href="#">фан-арт</a>
-      <a class="menu__item" href="#">обратная связь</a>
-    </nav>
     <div class="hamburger-menu">
-    <input id="menu__toggle" type="checkbox" />
-    <label class="menu__btn" for="menu__toggle"></label>
+      <input id="menu__toggle" type="checkbox" />
+      <label class="menu__btn" for="menu__toggle">
+        <span></span>
+      </label>
+      <nav class="menu">
+        <a class="menu__item" href="#">главная</a>
+        <a class="menu__item" href="#">поиск фанфика</a>
+        <a class="menu__item" href="#">добавить фанфик</a>
+        <a class="menu__item" href="#">фан-арт</a>
+        <a class="menu__item" href="#">обратная связь</a>
+      </nav>
     </div>
   </header>
   <main class="main-wrap">
-    <div class="images">
-      <img src="./images/img-1.png" alt="семья" class="images__item">
-      <img src="./images/img-2.png" alt="избранный" class="images__item">
-      <img src="./images/img-3.png" alt="водопад" class="images__item">
-    </div>
     <div class="info">
       <div class="info__content">
         <h1 class="content__title">Wolves</h1>
@@ -43,7 +40,13 @@
           Здесь можно прочесть и опубликовать фанфик с героями-волками.
         </p>
         <button class="main__btn">вход и регистрация</button>
-      </div>
+    </div>
+    <div class="images">
+      <img src="./images/img-1.png" alt="семья" class="images__item">
+      <img src="./images/img-2.png" alt="избранный" class="images__item">
+      <img src="./images/img-3.png" alt="водопад" class="images__item">
+    </div>
+    
     </div>
   </main>
 </body>
