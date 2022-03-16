@@ -1,36 +1,36 @@
-Public Sans Variable Font
-=========================
+Montserrat Variable Font
+========================
 
-This download contains Public Sans as both variable fonts and static fonts.
+This download contains Montserrat as both variable fonts and static fonts.
 
-Public Sans is a variable font with this axis:
+Montserrat is a variable font with this axis:
   wght
 
 This means all the styles are contained in these files:
-  PublicSans-VariableFont_wght.ttf
-  PublicSans-Italic-VariableFont_wght.ttf
+  Montserrat-VariableFont_wght.ttf
+  Montserrat-Italic-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Public Sans:
-  static/PublicSans-Thin.ttf
-  static/PublicSans-ExtraLight.ttf
-  static/PublicSans-Light.ttf
-  static/PublicSans-Regular.ttf
-  static/PublicSans-Medium.ttf
-  static/PublicSans-SemiBold.ttf
-  static/PublicSans-Bold.ttf
-  static/PublicSans-ExtraBold.ttf
-  static/PublicSans-Black.ttf
-  static/PublicSans-ThinItalic.ttf
-  static/PublicSans-ExtraLightItalic.ttf
-  static/PublicSans-LightItalic.ttf
-  static/PublicSans-Italic.ttf
-  static/PublicSans-MediumItalic.ttf
-  static/PublicSans-SemiBoldItalic.ttf
-  static/PublicSans-BoldItalic.ttf
-  static/PublicSans-ExtraBoldItalic.ttf
-  static/PublicSans-BlackItalic.ttf
+in those cases you can use the static font files for Montserrat:
+  static/Montserrat-Thin.ttf
+  static/Montserrat-ExtraLight.ttf
+  static/Montserrat-Light.ttf
+  static/Montserrat-Regular.ttf
+  static/Montserrat-Medium.ttf
+  static/Montserrat-SemiBold.ttf
+  static/Montserrat-Bold.ttf
+  static/Montserrat-ExtraBold.ttf
+  static/Montserrat-Black.ttf
+  static/Montserrat-ThinItalic.ttf
+  static/Montserrat-ExtraLightItalic.ttf
+  static/Montserrat-LightItalic.ttf
+  static/Montserrat-Italic.ttf
+  static/Montserrat-MediumItalic.ttf
+  static/Montserrat-SemiBoldItalic.ttf
+  static/Montserrat-BoldItalic.ttf
+  static/Montserrat-ExtraBoldItalic.ttf
+  static/Montserrat-BlackItalic.ttf
 
 Get started
 -----------
@@ -75,7 +75,7 @@ Please read the full license text (OFL.txt) to understand the permissions,
 restrictions and requirements for usage, redistribution, and modification.
 
 You can use them freely in your products & projects - print or digital,
-commercial or otherwise. However, you can't sell the fonts on their own.
+commercial or otherwise.
 
 This isn't legal advice, please consider consulting a lawyer and see the full
 license for all details.
